@@ -1,0 +1,15 @@
+{
+	'name': 'read-post-data',
+	'version': '1.0.0',
+	'description': 'read request body',
+	'main': 'read-post-data.js',
+	'keywords': [
+		'parser', 'url'
+	],
+	'author': 'vas',
+	'license': 'AGPL-3.0',
+	'repository': {
+		'type': 'git',
+		'url': 'git://github.com/vaaas/read-post-data.git'
+	}
+}
